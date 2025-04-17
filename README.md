@@ -7,11 +7,11 @@ step 1:Define a B-Tree Node class that can store multiple keys and children.
 
 step 2:Implement methods for:
 
-    a]Inserting a new key into the B-Tree
+   a]Inserting a new key into the B-Tree
 
-    b]Splitting a full node
+   b]Splitting a full node
 
-    c]Traversing the B-Tree to display its structure level-wise
+   c]Traversing the B-Tree to display its structure level-wise
 
 step 3:Initialize a B-Tree with some default keys.
 
